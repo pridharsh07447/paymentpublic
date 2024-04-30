@@ -1,0 +1,554 @@
+.city-marathon-img {
+  width: 1440px;
+  height: 565px;
+}
+
+.city-marathon-txt {
+  width: 1440px;
+  height: 50px;
+  top: 587px;
+  left: 511px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 10px;
+  background-color: #DE5E27;
+  color: white;
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  font-family: Sunflower;
+}
+
+
+.city-marathon-para {
+  position: absolute;
+  top: 673px;
+  left: 106px;
+  width: 1180px;
+  /* Adjust width as needed */
+  margin: 0 auto;
+  text-align: center;
+  font-family: Sunflower;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 31.25px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+.city-marathon-para p {
+  position: relative;
+  line-height: 1.5;
+  /* Adjust line height as needed */
+}
+
+.city-marathon-para {
+  display: inline-block;
+}
+
+
+.time-content {
+  position: absolute;
+  width: 588px;
+  height: 130px;
+  top: 810px;
+  left: 106px;
+  gap: 0px;
+  border-radius: 22px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #FFF3F3;
+  border-radius: 25px;
+}
+
+
+.Venue-content {
+  position: absolute;
+  width: 588px;
+  height: 123px;
+  top: 810px;
+  left: 746px;
+  gap: 0px;
+  border-radius: 22px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #FFF3F3;
+  border-radius: 25px;
+}
+
+
+.About-title {
+  width: 350px;
+  height: 41px;
+  top: 983px;
+  left: 594px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  font-family: Sunflower;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 41.25px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #DE5E27;
+}
+
+.about-content {
+  position: absolute;
+  width: 1228px;
+  height: 155px;
+  top: 1061px;
+  left: 106px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Sunflower;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 31.25px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+.about-contents-para {
+  position: absolute;
+  width: 1228px;
+  height: 155px;
+  top: 1061px;
+  left: 106px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Sunflower;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  line-height: 31.25px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+.about-contents-para p {
+  position: relative;
+  line-height: 1.5;
+}
+
+.about-contents-para {
+  display: inline-block;
+}
+
+
+
+
+
+
+/* sur */
+
+
+.ticket-container {
+  position: absolute;
+  top: 1260px;
+  width: 1228px;
+  left: 106px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 0px solid #ccc;
+  box-shadow: 2px;
+  border-radius: 10px;
+  height: 200px;
+  background-color: rgb(255, 243, 243);
+}
+
+.ticket-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.ticket-price {
+  font-size: 18px;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-controls button {
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  margin: 0 5px;
+}
+
+.total-price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#f {
+  color: rgba(17, 10, 44, 1);
+}
+
+#s {
+  color: rgba(82, 25, 25, 1);
+}
+
+#t {
+  color: rgba(82, 25, 25, 1);
+}
+
+.nxt{
+  position: absolute;
+  width: 170px;
+  height: 85px;
+  top: 1564px;
+  left: 577px;
+  gap: 0px;
+  border-radius: 22px 0px 0px 0px;
+  opacity: 0px;
+  position: absolute;
+  margin: 50px auto;
+  padding: 20px;
+  border: 0px solid #ccc;
+  box-shadow: 2px;
+  border-radius: 10px;
+  height: 0px;
+  background-color: rgba(222, 94, 39, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card-sub-btn {
+  max-width: 110px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 0px solid #ccc;
+  box-shadow: 2px;
+  border-radius: 10px;
+  height: 0px;
+  background-color: rgba(222, 94, 39, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.nxt1 {
+  position: absolute;
+  width: 609px;
+  height: 401px;
+  left: 111px;
+  top: 1650px;
+  border-radius: 22px 0px 0px 0px;
+  margin: 50px auto;
+  padding: 20px;
+  justify-content: space-evenly;
+}
+
+#charges {
+  display: flex;
+  justify-content: space-between;
+}
+.card-body{
+  margin-top:60px;
+}
+/* .method {
+    margin: 50px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.method img {
+    width: 35px;
+    height: 55px;
+    margin: 5px;
+    padding: 10px;
+} */
+
+
+
+
+
+
+
+/* other */
+
+.dote-line {
+  position: absolute;
+  top: 2250px;
+  left: 45px;
+  width: 90%;
+  height: 2px;
+  background-image: linear-gradient(to right, rgb(0, 0, 0) 55%, transparent 0%);
+  background-size: 10px 100%;
+  background-color: antiquewhite;
+}
+
+.text {
+  position: absolute;
+  left: 50%;
+  top: 2199px;
+  width: 330px;
+  height: 85px;
+  font-weight: 500;
+  font-size: 40px;
+  font-family: Sunflower;
+  color: aliceblue;
+  background-color: #DE5E27;
+  border-radius: 30px 30px 30px 30px;
+  transform: translateX(-50%);
+  text-align: center;
+  padding-top: 17px;
+}
+
+.row {
+  position: absolute;
+  top: 2320px;
+  left: 2%;
+  display: flex;
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+}
+
+.column img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+/* footerss */
+/* footerpage */
+
+.book-now {
+  position: absolute;
+  top: 4865px;
+  left: 448px;
+  color: #ccc;
+}
+
+.tickethub {
+  position: absolute;
+  top: 2950px;
+  left: 260px;
+  color: #ccc;
+}
+
+.ticket-img {
+  position: absolute;
+  top: -30px;
+  left: -45px;
+  color: #ccc;
+}
+
+.background-card {
+  position: absolute;
+  width: 1440px;
+  height: 797px;
+  top: 2846px;
+  left: 40px;
+  gap: 0px;
+  opacity: 0px;
+  color: #ccc;
+}
+
+.footer-text {
+  width: 396.14px;
+  height: 40px;
+  top: 3413px;
+  left: 1072.86px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  color: #ccc;
+}
+
+.home {
+  width: 102.35px;
+  height: 40px;
+  top: 2771px;
+  left: 104px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+
+}
+
+.Search-city {
+  position: absolute;
+  width: 256.37px;
+  height: 40px;
+  top: 2771px;
+  left: 558.12px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Payment-policy {
+  position: absolute;
+  width: 278.24px;
+  height: 40px;
+  top: 2771px;
+  left: 1072.86px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Explore {
+  position: absolute;
+  width: 140.11px;
+  height: 40px;
+  top: 2831px;
+  left: 107px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.search-events {
+  position: absolute;
+  width: 317.98px;
+  height: 40px;
+  top: 2831px;
+  left: 558.12px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Workshops {
+  width: 205.7px;
+  height: 40px;
+  top: 2831px;
+  left: 1072.86px;
+  gap: 0px;
+  opacity: 0px;
+
+  position: absolute;
+
+}
+
+.Choose-Category {
+  position: absolute;
+  width: 316.99px;
+  height: 40px;
+  top: 2889px;
+  left: 107px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Wishlist {
+  position: absolute;
+  width: 151.04px;
+  height: 40px;
+  top: 2889px;
+  left: 558.12px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Festss {
+  position: absolute;
+  width: 313px;
+  height: 294px;
+  top: 2889px;
+  left: 1074px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.Upcoming-events {
+  position: absolute;
+  width: 314.01px;
+  height: 40px;
+  top: 2939px;
+  left: 107px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Review {
+  position: absolute;
+  width: 132.16px;
+  height: 40px;
+  top: 2939px;
+  left: 558.12px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Sports {
+  position: absolute;
+  width: 120.24px;
+  height: 40px;
+  top: 2939px;
+  left: 1072.86px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Popular-events {
+  position: absolute;
+  width: 275.26px;
+  height: 40px;
+  top: 2989px;
+  left: 107px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Term-Conditions {
+  position: absolute;
+  width: 378.6px;
+  height: 40px;
+  top: 2989px;
+  left: 558.12px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Technical-course {
+  position: absolute;
+  width: 293.14px;
+  height: 40px;
+  top: 2989px;
+  left: 1072.86px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.social-ions {
+  position: absolute;
+  width: 500px;
+  left: 107px;
+  top: 3100px;
+  color: #ccc;
+  word-spacing: 10px;
+  display: flex;
+}
+
+
+.container-text {
+  position: absolute;
+  top: 300px;
+}
